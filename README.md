@@ -8,7 +8,7 @@ This project focuses on sentiment analysis of movie reviews from the IMDB datase
 - **README.md**: Overview of the project, setup instructions, and usage guidelines.
 
 ## Data Source
-The dataset used in this project is available on Kaggle at [Sentiment Analysis of IMDB Movie Reviews](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input).
+The dataset used in this project is available on Kaggle at [Sentiment Analysis of IMDB Movie Reviews]([https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/input](https://www.kaggle.com/datasets/vishakhdapat/imdb-movie-reviews)).
 
 
 ## Setup Instructions
